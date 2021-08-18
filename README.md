@@ -5,6 +5,9 @@ To Make frp with no arguments ,which Conveniently in red teaming
 
 **I will give a simple modified source code of frp and Builder(MFC C++) in the project**
 
+
+**All it does is write the configuration into the root.go and compile it, so first make sure that you can run go build in that directory**
+
 ### Usage:
 
 open the Builder `FRPBuider\cmd\frpc\builder.exe`
