@@ -23,5 +23,5 @@ open the Builder `FRPBuider\cmd\frpc\builder.exe`
 2. The tls encryption is enabled by default
 3. Simply remove some not often used packages
 4. But UPX compression is the default. If you want to reduce the size, please notice that could be Noticed by Anti-virus
-5. Finally, the source code is here, you can further optimize, such as remove the tls features
+5. Finally, the source code is here, you can further optimize, such as remove the features of tls
 
